@@ -10,5 +10,6 @@ import '@fontsource/zen-old-mincho/700.css'
   <Body class="bg-gray-100 text-gray-800 dark:bg-gray-800 dark:text-gray-100">
     <NuxtLoadingIndicator :height="2" color="#ffb41d" />
     <TheHeader />
+    <TheFooter />
   </Body>
 </template>
