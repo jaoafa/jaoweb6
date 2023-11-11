@@ -71,6 +71,9 @@ devDependencies:
   prettier-plugin-tailwindcss:
     specifier: 0.5.7
     version: 0.5.7(prettier@3.0.3)
+  simple-icons:
+    specifier: 9.19.1
+    version: 9.19.1
   stylelint:
     specifier: 15.11.0
     version: 15.11.0(typescript@5.2.2)
@@ -8476,6 +8479,11 @@ packages:
       debug: 4.3.4
     transitivePeerDependencies:
       - supports-color
+    dev: true
+
+  /simple-icons@9.19.1:
+    resolution: {integrity: sha512-U6Ixzl3jUbq5H+vImsC9+2dOP1KPP9pA7UgJW9xNOT4b7JRz/9n6qMSSIEbgIk9ofM6VpVuVy0nsAfTuVv1/Tg==}
+    engines: {node: '>=0.12.18'}
     dev: true
 
   /sirv@2.0.3:
