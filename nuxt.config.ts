@@ -5,6 +5,12 @@ export default defineNuxtConfig({
     lintOnStart: false,
   },
   modules: ['@nuxtjs/eslint-module', '@nuxtjs/stylelint-module'],
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
   srcDir: 'src/',
   stylelint: {
     lintOnStart: false,
