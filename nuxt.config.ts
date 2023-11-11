@@ -5,7 +5,11 @@ export default defineNuxtConfig({
   eslint: {
     lintOnStart: false,
   },
-  modules: ['@nuxtjs/eslint-module', '@nuxtjs/stylelint-module'],
+  modules: [
+    '@nuxtjs/eslint-module',
+    '@nuxtjs/stylelint-module',
+    '@vueuse/nuxt',
+  ],
   postcss: {
     plugins: {
       tailwindcss: {},
