@@ -1,75 +1,18 @@
-# Nuxt 3 Minimal Starter
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jaoafa/jaoweb6/assets/23224932/dedb7355-e4ba-491c-848e-2300900c2110" sizes="(max-width:280px) 100vw, 280px" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/jaoafa/jaoweb6/assets/23224932/8e831c14-5247-488e-97b2-e34f2fc10356" sizes="(max-width:280px) 100vw, 280px" />
+    <img alt="jao Community Server" src="https://github.com/jaoafa/jaoweb6/assets/23224932/8e831c14-5247-488e-97b2-e34f2fc10356" width="280" />
+  </picture>
+</h1>
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+[![ci](https://github.com/jaoafa/jaoweb6/actions/workflows/ci.yaml/badge.svg)](https://github.com/jaoafa/jaoweb6/actions/workflows/ci.yaml)
+[![Open in Codeflow](https://developer.stackblitz.com/img/start_pr_dark_small.svg)](https:///pr.new/jaoafa/jaoweb6)
+[![chat](https://img.shields.io/badge/discord-jaoafa-5865F2?logo=discord)](https://discord.gg/jaoafa)
 
-## Setup
+jao Community Server のウェブサイトのリポジトリです。  
+[Nuxt](https://nuxt.com/) を使用して制作しています。
 
-Make sure to install the dependencies:
+## 🌟 Contributing
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+プロジェクトへの貢献をご検討の方は、 [CONTRIBUTING.md](.github/CONTRIBUTING.md) をご確認ください。
