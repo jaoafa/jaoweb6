@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     lintOnStart: false,
   },
   modules: ['@nuxtjs/eslint-module', '@nuxtjs/stylelint-module'],
+  srcDir: 'src/',
   stylelint: {
     lintOnStart: false,
   },
