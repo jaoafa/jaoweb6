@@ -2,6 +2,8 @@
 // Icons
 import { MoonIcon, SunIcon } from '@heroicons/vue/24/outline'
 
+const site = useSiteConfig()
+
 /** 現在のカラーモード */
 const mode = useColorMode()
 /** カラーモードを変更する */
@@ -21,7 +23,12 @@ const toggleMode = (): void => {
       'px-6 pb-16 pt-10 sm:pt-16',
     ]"
   >
-    <NuxtLink href="/" class="w-48" aria-label="トップページへ移動する">
+    <SiteLink
+      :title="site.name"
+      to="/"
+      class="w-48"
+      aria-label="トップページへ移動する"
+    >
       <img
         src="/logo-light.svg"
         alt=""
@@ -36,7 +43,7 @@ const toggleMode = (): void => {
         height="25"
         class="hidden w-full dark:block"
       />
-    </NuxtLink>
+    </SiteLink>
 
     <button
       class="rounded-lg p-2 transition-colors hover:bg-gray-200 hover:dark:bg-gray-900"
