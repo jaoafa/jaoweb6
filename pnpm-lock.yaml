@@ -72,8 +72,8 @@ devDependencies:
     specifier: 0.5.7
     version: 0.5.7(prettier@3.0.3)
   simple-icons:
-    specifier: 10.1.0
-    version: 10.1.0
+    specifier: 11.15.0
+    version: 11.15.0
   stylelint:
     specifier: 15.11.0
     version: 15.11.0(typescript@5.2.2)
@@ -8481,8 +8481,8 @@ packages:
       - supports-color
     dev: true
 
-  /simple-icons@10.1.0:
-    resolution: {integrity: sha512-WbWY8Gn0M14EJF0bjH6KTofckesZ6+ZMzA/yM3rbruGFLii/ktYTzTbURCDGzU5ue6XO3pLm9dnzr2YtQegZaA==}
+  /simple-icons@11.15.0:
+    resolution: {integrity: sha512-uDAdtIGc56YJiGpdzImENY4E+5qtHEorW11KoXiwDj4u4YSY74G+q/a9idlY8iEqrjghHGkZ/ras0jRT7JpDTQ==}
     engines: {node: '>=0.12.18'}
     dev: true
 
