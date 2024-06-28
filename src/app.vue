@@ -28,7 +28,7 @@ import '@fontsource/zen-old-mincho/700.css'
             />
           </div>
           <p
-            class="text-center text-sm font-bold dark:text-gray-800 sm:text-base md:text-xl"
+            class="text-center text-sm font-bold sm:text-base md:text-xl dark:text-gray-800"
           >
             ここで爆発します、あなたの可能性が。
           </p>
