@@ -9,8 +9,8 @@
     "node": "20.9.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "18.4.0",
-    "@commitlint/config-conventional": "18.4.0",
+    "@commitlint/cli": "19.5.0",
+    "@commitlint/config-conventional": "19.5.0",
     "@fontsource/zen-kaku-gothic-new": "5.0.16",
     "@fontsource/zen-old-mincho": "5.0.7",
     "@heroicons/vue": "2.0.18",
