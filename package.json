@@ -24,7 +24,7 @@
     "autoprefixer": "10.4.16",
     "eslint": "8.53.0",
     "eslint-config-prettier": "9.0.0",
-    "husky": "8.0.3",
+    "husky": "9.1.7",
     "lint-staged": "15.0.2",
     "nuxt": "3.8.1",
     "postcss": "8.4.31",
