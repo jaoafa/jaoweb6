@@ -23,7 +23,7 @@
     "@vueuse/nuxt": "10.6.0",
     "autoprefixer": "10.4.16",
     "eslint": "8.53.0",
-    "eslint-config-prettier": "9.0.0",
+    "eslint-config-prettier": "10.1.8",
     "husky": "8.0.3",
     "lint-staged": "15.0.2",
     "nuxt": "3.8.1",
