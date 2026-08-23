@@ -14,7 +14,7 @@
     "@fontsource/zen-kaku-gothic-new": "5.0.16",
     "@fontsource/zen-old-mincho": "5.0.7",
     "@heroicons/vue": "2.0.18",
-    "@nuxt/devtools": "1.0.1",
+    "@nuxt/devtools": "3.4.2",
     "@nuxt/eslint-config": "0.2.0",
     "@nuxtjs/eslint-module": "4.1.0",
     "@nuxtjs/stylelint-module": "5.1.0",
