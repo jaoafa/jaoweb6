@@ -72,8 +72,8 @@ devDependencies:
     specifier: 0.5.7
     version: 0.5.7(prettier@3.0.3)
   simple-icons:
-    specifier: 10.1.0
-    version: 10.1.0
+    specifier: 16.29.0
+    version: 16.29.0
   stylelint:
     specifier: 15.11.0
     version: 15.11.0(typescript@5.2.2)
@@ -3313,6 +3313,7 @@ packages:
 
   /acorn-import-assertions@1.9.0(acorn@8.11.2):
     resolution: {integrity: sha512-cmMwop9x+8KFhxvKrKfPYmN6/pKTYYHBqLa0DfvVZcKMJWNyWLnaqND7dx/qn66R7ewM1UX5XMaDVP5wlVTaVA==}
+    deprecated: package has been renamed to acorn-import-attributes
     peerDependencies:
       acorn: ^8
     dependencies:
@@ -8481,8 +8482,8 @@ packages:
       - supports-color
     dev: true
 
-  /simple-icons@10.1.0:
-    resolution: {integrity: sha512-WbWY8Gn0M14EJF0bjH6KTofckesZ6+ZMzA/yM3rbruGFLii/ktYTzTbURCDGzU5ue6XO3pLm9dnzr2YtQegZaA==}
+  /simple-icons@16.29.0:
+    resolution: {integrity: sha512-4H94f5ZgcCcgJroc902TFlFdgPu2IU2eD7+WebN2Z14xKYrKHeJ4UQcZwzgSuH4Rgzw+jp7sbHl40NefuIEYsg==}
     engines: {node: '>=0.12.18'}
     dev: true
 
